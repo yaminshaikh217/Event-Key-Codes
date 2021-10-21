@@ -20,8 +20,4 @@ window.addEventListener("keydown", (events) => {
 </div>`
 
 
-
-
-
-
 })
